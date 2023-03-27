@@ -1,0 +1,46 @@
+{
+    "guest": {
+        "welcome_text": "Welcome to Lukoil",
+        "welcome_text_h1": "In order to use our app please log in/sign up",
+        "log_in": "Log in",
+        "sign_up": "Sign up",
+        "by_clicking": "By clicking log in you agree our",
+        "terms_conditions": "Terms & Conditions",
+        "phoneemail": "Phone/Email",
+        "password": "Password",
+        "reset_password": "Reset password",
+        "first_name": "First name",
+        "last_name": "Last name",
+        "phone_number": "Phone number",
+        "email": "Email",
+        "repeat_password": "Repeat password",
+        "reg_text": "Registration completed successfully. Our operator will contact you soon"
+    },
+    "logged": {
+        "bottombar": {
+            "home": "Home",
+            "shop": "Shop",
+            "cart": "Cart",
+            "profile": "Profile"
+        },
+        "loggedheader": {
+            "welcome": "Welcome, {{user}}"
+        },
+        "mainscreen": {
+            "main_balance": "Main balance",
+            "card_name": "Card name",
+            "liters_left": "{{litre}} Liters left",
+            "products": "Products",
+            "cart": "Cart",
+            "checkout": "Checkout",
+            "add_to_card": "Add to cart",
+            "standart_price": "Standart price",
+            "discount": "Discount (t/Litre)",
+            "your_price": "Your price",
+            "edit": "Edit",
+            "account_information": "Account information",
+            "change_language": "Change language"
+        }
+        
+    }
+}
